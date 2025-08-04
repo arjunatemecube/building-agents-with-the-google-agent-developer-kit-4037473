@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Building Agents with the Google Agent Developer Kit
+This is the repository for the LinkedIn Learning course `Building Agents with the Google Agent Developer Kit`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
